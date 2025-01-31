@@ -1,4 +1,6 @@
 ## Superstore Analysis
+<img width="647" alt="super_store" src="https://github.com/user-attachments/assets/ae62f8a7-9607-4974-8226-41ce26a56c00" />
+
 
 ### Introduction
 A superstore is a large self-service retail establishment that provides a wide range of products and merchandise, including both food and non-food items. It is designed to meet nearly all consumer needs under one roof, offering convenience and variety. Superstores often carry items like Groceries, Clothing and footwear, Electronics, Home Improvement supplies and many more.
@@ -35,8 +37,19 @@ Power BI – for analysis and visualization
 - What is the distribution of orders by ship mode?
 
 ### Data Analysis
-Dax Formular: it was used to calculate the average sales per order,
-Average sales per order = AVERAGE(‘order’[sales])
+Dax Formular: it was used to calculate the average sales per order
+
+<img width="301" alt="Dax_formular" src="https://github.com/user-attachments/assets/35ea73b6-9a6c-475f-a58e-f4baa27da6af" />
+
+
+### Visualizations
+<img width="576" alt="Superstore_dashboard" src="https://github.com/user-attachments/assets/176de0b0-0007-497f-a8de-8b20fb9f4864" />
+
+
+
+<img width="579" alt="Superstore" src="https://github.com/user-attachments/assets/bed5df0c-5f5c-47be-85d4-0b37a8e86143" />
+
+
 
 ### Insights/Findings
 - Total sales amount is $1,034,000, which is the total sales made in the store.
@@ -68,6 +81,9 @@ Average sales per order = AVERAGE(‘order’[sales])
 
 ### Conclusion
 The analysis of the superstore provides valuable insight into the overall sales performance, customer behavior and product popularity. By implementing  recommendations, we can make data-driven decisions to enhance sales performance, improve customer satisfaction and increase overall profitability of the business.
+😊😊
+
+💻
 
 
 
